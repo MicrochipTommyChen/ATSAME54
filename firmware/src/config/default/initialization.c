@@ -122,6 +122,8 @@ void SYS_Initialize ( void* data )
 
     EVSYS_Initialize();
 
+    SERCOM7_I2C_Initialize();
+
     TC0_TimerInitialize();
 
 

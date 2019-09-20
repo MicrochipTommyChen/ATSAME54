@@ -52,6 +52,8 @@ build/default/production/_ext/1171490990/startup_xc32.o:  \
  ../src/config/default/device_cache.h  \
  ../src/config/default/toolchain_specifics.h  \
  ../src/config/default/peripheral/evsys/plib_evsys.h  \
+ ../src/config/default/peripheral/sercom/i2cm/plib_sercom7_i2c.h  \
+ ../src/config/default/peripheral/sercom/i2cm/plib_sercom_i2c_master.h  \
  ../src/config/default/peripheral/port/plib_port.h  \
  ../src/config/default/peripheral/clock/plib_clock.h  \
  ../src/config/default/peripheral/nvic/plib_nvic.h  \
